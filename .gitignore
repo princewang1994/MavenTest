@@ -1,8 +1,13 @@
+#for eclipse gitignore
 *.class
 *.project
 *.classpath
 target/
 .settings/
+
+#for idea gitignore
+.idea/
+*.iml
 
 
 # Mobile Tools for Java (J2ME)
